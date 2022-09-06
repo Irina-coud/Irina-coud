@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Irina-coud/Irina-coud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="/Hi.png">
+<div class="block">
+ <a href="https://www.instagram.com/tobolich_life/">
+    <img src="/instagram.svg" alt="instagram" width="50px"/>
+  </a>
+  <a href="mailto:irinatobolich313@gmail.com">
+    <img src="/gmail.svg" alt="GMail" width="50px"/>
+  </a>
+    <a href="https://www.linkedin.com/in/irinatobolich/">
+    <img src="linkedin.svg" alt="linkedin" width="50px"/>
+  </a>
+</div>
