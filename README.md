@@ -1,5 +1,5 @@
 <img src="/Hi.png">
-<div class="block">
+<div align="center">
  <a href="https://www.instagram.com/tobolich_life/">
     <img src="/instagram.svg" alt="instagram" width="50px"/>
   </a>
